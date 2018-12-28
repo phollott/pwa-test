@@ -1,0 +1,151 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.bkkjflvg.js",
+  "corePolyfilled": "app.4fi97kkm.js",
+  "components": {
+    "app-home": {
+      "bundleIds": {
+        "$": "h2typ0do"
+      }
+    },
+    "app-profile": {
+      "bundleIds": {
+        "ios": "8jnj0s8r",
+        "md": "2pxtfhnj"
+      }
+    },
+    "app-root": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      }
+    },
+    "ion-animation-controller": {
+      "bundleIds": {
+        "$": "xlrit5rt"
+      }
+    },
+    "ion-app": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      }
+    },
+    "ion-back-button": {
+      "bundleIds": {
+        "ios": "8jnj0s8r",
+        "md": "2pxtfhnj"
+      },
+      "encapsulation": "scoped"
+    },
+    "ion-button": {
+      "bundleIds": {
+        "ios": "nwhfdup8",
+        "md": "p22wgxmu"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-buttons": {
+      "bundleIds": {
+        "ios": "8jnj0s8r",
+        "md": "2pxtfhnj"
+      },
+      "encapsulation": "scoped"
+    },
+    "ion-content": {
+      "bundleIds": {
+        "ios": "cm1hjpl6",
+        "md": "gnxpn8ww"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-header": {
+      "bundleIds": {
+        "ios": "cm1hjpl6",
+        "md": "gnxpn8ww"
+      }
+    },
+    "ion-icon": {
+      "bundleIds": {
+        "$": "6eorrvyw"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-item": {
+      "bundleIds": {
+        "ios": "8jnj0s8r",
+        "md": "2pxtfhnj"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-label": {
+      "bundleIds": {
+        "ios": "8jnj0s8r",
+        "md": "2pxtfhnj"
+      },
+      "encapsulation": "scoped"
+    },
+    "ion-nav": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-ripple-effect": {
+      "bundleIds": {
+        "$": "6eorrvyw"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-route": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      }
+    },
+    "ion-router": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      }
+    },
+    "ion-title": {
+      "bundleIds": {
+        "ios": "cm1hjpl6",
+        "md": "gnxpn8ww"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-toast": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-toast-controller": {
+      "bundleIds": {
+        "ios": "fhionivt",
+        "md": "ulitg3an"
+      }
+    },
+    "ion-toggle": {
+      "bundleIds": {
+        "ios": "8jnj0s8r",
+        "md": "2pxtfhnj"
+      },
+      "encapsulation": "shadow"
+    },
+    "ion-toolbar": {
+      "bundleIds": {
+        "ios": "cm1hjpl6",
+        "md": "gnxpn8ww"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
